@@ -79,4 +79,4 @@ This project demonstrates the power of data analytics in driving business decisi
 For any queries or feedback, feel free to reach out:
 **Name**: Mohd Ahtishamul Hasan  
 **Email**: mohdahtishamulhasan369@gmail.com  
-**LinkedIn**: https://www.linkedin.com/in/mohd-ahtishamul-hasan(#)
+**LinkedIn**: https://www.linkedin.com/in/mohd-ahtishamul-hasan
